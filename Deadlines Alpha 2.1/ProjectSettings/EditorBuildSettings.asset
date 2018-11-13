@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Deadlines Main Menu.unity
+    guid: 091ea01f43e447c4992b3f41d868bacd
+  - enabled: 1
+    path: Assets/Scenes/Eddy Tutorial.unity
+    guid: 834df109633546c4e9d2a7224cd08f01
+  - enabled: 1
+    path: Assets/Scenes/Edd Tutorial.unity
+    guid: 11706f979564599468f083a16beb9ecd
+  - enabled: 1
+    path: Assets/Scenes/Ed Tutorial.unity
+    guid: 42bfaf78ad59ee2498c1bfc19e43b1de
