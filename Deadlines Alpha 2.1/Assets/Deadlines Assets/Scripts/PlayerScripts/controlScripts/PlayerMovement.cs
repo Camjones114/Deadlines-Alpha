@@ -13,10 +13,11 @@ public class PlayerMovement : MonoBehaviour {
 	private bool grounded = true;
 	private bool facing = true;
 	private float horizontal;
-
+    private Animator animator;
 	// Use this for initialization
 	void Start () {
 		myRigidBody = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
 	}
 
 	public float getMovementspeed(){
@@ -41,33 +42,55 @@ public class PlayerMovement : MonoBehaviour {
 		if (newTag == "Ground")
 		{
 			grounded = true;
-		}
+            animator.SetBool("grounded", true);
+        }
 	}
 
 	//Todo: Create a fix for when the player walks off of a platform so they can not jump mid-air
 	void OnCollisionExit2D(Collision2D collision){
 		string newTag = collision.collider.tag;
 		if (newTag == "Ground") {
-			//grounded = false;
-		}
+            //grounded = false;
+            
+        }
 	}
 
 	// Update is called once per frame
 	void Update () {
 		horizontal = Input.GetAxis("Horizontal");
+       
+
 		myRigidBody.velocity = new Vector2(horizontal * movementspeed, myRigidBody.velocity.y);
 		if (Input.GetKeyDown(KeyCode.Space) && grounded) {
 			myRigidBody.AddForce(transform.up * jumpheight, ForceMode2D.Impulse);
 			grounded = false;
-		}
-		if (horizontal > 0 && !facing) {
-			Flip();
-		}
-		else if(horizontal < 0 && facing)
-		{
-			Flip();
-		}
-	}
+            animator.SetBool("grounded", false);
+
+        }
+        if (horizontal > 0)
+        {
+            if (!facing)
+            {
+                Flip();
+            }
+           
+            animator.SetBool("walking", true);
+        }
+        else if (horizontal < 0 )
+        {
+            if (facing)
+            {
+                Flip();
+            }
+           
+            animator.SetBool("walking", true);
+        }
+        else
+        {
+            animator.SetBool("walking", false);
+        }
+        
+    }
 
 	private void Flip()
 	{

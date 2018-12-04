@@ -1,0 +1,3777 @@
+fileFormatVersion: 2
+guid: ab59c97affeadc5439e2e1807016a096
+timeCreated: 1542863288
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: edd sprite sheet_0
+    21300002: edd sprite sheet_1
+    21300004: edd sprite sheet_2
+    21300006: edd sprite sheet_3
+    21300008: edd sprite sheet_4
+    21300010: edd sprite sheet_5
+    21300012: edd sprite sheet_6
+    21300014: edd sprite sheet_7
+    21300016: edd sprite sheet_8
+    21300018: edd sprite sheet_9
+    21300020: edd sprite sheet_10
+    21300022: edd sprite sheet_11
+    21300024: edd sprite sheet_12
+    21300026: edd sprite sheet_13
+    21300028: edd sprite sheet_14
+    21300030: edd sprite sheet_15
+    21300032: edd sprite sheet_16
+    21300034: edd sprite sheet_17
+    21300036: edd sprite sheet_18
+    21300038: edd sprite sheet_19
+    21300040: edd sprite sheet_20
+    21300042: edd sprite sheet_21
+    21300044: edd sprite sheet_22
+    21300046: edd sprite sheet_23
+    21300048: edd sprite sheet_24
+    21300050: edd sprite sheet_25
+    21300052: edd sprite sheet_26
+    21300054: edd sprite sheet_27
+    21300056: edd sprite sheet_28
+    21300058: edd sprite sheet_29
+    21300060: edd sprite sheet_30
+    21300062: edd sprite sheet_31
+    21300064: edd sprite sheet_32
+    21300066: edd sprite sheet_33
+    21300068: edd sprite sheet_34
+    21300070: edd sprite sheet_35
+    21300072: edd sprite sheet_36
+    21300074: edd sprite sheet_37
+    21300076: edd sprite sheet_38
+    21300078: edd sprite sheet_39
+    21300080: edd sprite sheet_40
+    21300082: edd sprite sheet_41
+    21300084: edd sprite sheet_42
+    21300086: edd sprite sheet_43
+    21300088: edd sprite sheet_44
+    21300090: edd sprite sheet_45
+    21300092: edd sprite sheet_46
+    21300094: edd sprite sheet_47
+    21300096: edd sprite sheet_48
+    21300098: edd sprite sheet_49
+    21300100: edd sprite sheet_50
+    21300102: edd sprite sheet_51
+    21300104: edd sprite sheet_52
+    21300106: edd sprite sheet_53
+    21300108: edd sprite sheet_54
+    21300110: edd sprite sheet_55
+    21300112: edd sprite sheet_56
+    21300114: edd sprite sheet_57
+    21300116: edd sprite sheet_58
+    21300118: edd sprite sheet_59
+    21300120: edd sprite sheet_60
+    21300122: edd sprite sheet_61
+    21300124: edd sprite sheet_62
+    21300126: edd sprite sheet_63
+    21300128: edd sprite sheet_64
+    21300130: edd sprite sheet_65
+    21300132: edd sprite sheet_66
+    21300134: edd sprite sheet_67
+    21300136: edd sprite sheet_68
+    21300138: edd sprite sheet_69
+    21300140: edd sprite sheet_70
+    21300142: edd sprite sheet_71
+    21300144: edd sprite sheet_72
+    21300146: edd sprite sheet_73
+    21300148: edd sprite sheet_74
+    21300150: edd sprite sheet_75
+    21300152: edd sprite sheet_76
+    21300154: edd sprite sheet_77
+    21300156: edd sprite sheet_78
+    21300158: edd sprite sheet_79
+    21300160: edd sprite sheet_80
+    21300162: edd sprite sheet_81
+    21300164: edd sprite sheet_82
+    21300166: edd sprite sheet_83
+    21300168: edd sprite sheet_84
+    21300170: edd sprite sheet_85
+    21300172: edd sprite sheet_86
+    21300174: edd sprite sheet_87
+    21300176: edd sprite sheet_88
+    21300178: edd sprite sheet_89
+    21300180: edd sprite sheet_90
+    21300182: edd sprite sheet_91
+    21300184: edd sprite sheet_92
+    21300186: edd sprite sheet_93
+    21300188: edd sprite sheet_94
+    21300190: edd sprite sheet_95
+    21300192: edd sprite sheet_96
+    21300194: edd sprite sheet_97
+    21300196: edd sprite sheet_98
+    21300198: edd sprite sheet_99
+    21300200: edd sprite sheet_100
+    21300202: edd sprite sheet_101
+    21300204: edd sprite sheet_102
+    21300206: edd sprite sheet_103
+    21300208: edd sprite sheet_104
+    21300210: edd sprite sheet_105
+    21300212: edd sprite sheet_106
+    21300214: edd sprite sheet_107
+    21300216: edd sprite sheet_108
+    21300218: edd sprite sheet_109
+    21300220: edd sprite sheet_110
+    21300222: edd sprite sheet_111
+    21300224: edd sprite sheet_112
+    21300226: edd sprite sheet_113
+    21300228: edd sprite sheet_114
+    21300230: edd sprite sheet_115
+    21300232: edd sprite sheet_116
+    21300234: edd sprite sheet_117
+    21300236: edd sprite sheet_118
+    21300238: edd sprite sheet_119
+    21300240: edd sprite sheet_120
+    21300242: edd sprite sheet_121
+    21300244: edd sprite sheet_122
+    21300246: edd sprite sheet_123
+    21300248: edd sprite sheet_124
+    21300250: edd sprite sheet_125
+    21300252: edd sprite sheet_126
+    21300254: edd sprite sheet_127
+    21300256: edd sprite sheet_128
+    21300258: edd sprite sheet_129
+    21300260: edd sprite sheet_130
+    21300262: edd sprite sheet_131
+    21300264: edd sprite sheet_132
+    21300266: edd sprite sheet_133
+    21300268: edd sprite sheet_134
+    21300270: edd sprite sheet_135
+    21300272: edd sprite sheet_136
+    21300274: edd sprite sheet_137
+    21300276: edd sprite sheet_138
+    21300278: edd sprite sheet_139
+    21300280: edd sprite sheet_140
+    21300282: edd sprite sheet_141
+    21300284: edd sprite sheet_142
+    21300286: edd sprite sheet_143
+    21300288: edd sprite sheet_144
+    21300290: edd sprite sheet_145
+    21300292: edd sprite sheet_146
+    21300294: edd sprite sheet_147
+    21300296: edd sprite sheet_148
+    21300298: edd sprite sheet_149
+    21300300: edd sprite sheet_150
+    21300302: edd sprite sheet_151
+    21300304: edd sprite sheet_152
+    21300306: edd sprite sheet_153
+    21300308: edd sprite sheet_154
+    21300310: edd sprite sheet_155
+    21300312: edd sprite sheet_156
+    21300314: edd sprite sheet_157
+    21300316: edd sprite sheet_158
+    21300318: edd sprite sheet_159
+    21300320: edd sprite sheet_160
+    21300322: edd sprite sheet_161
+    21300324: edd sprite sheet_162
+    21300326: edd sprite sheet_163
+    21300328: edd sprite sheet_164
+    21300330: edd sprite sheet_165
+    21300332: edd sprite sheet_166
+    21300334: edd sprite sheet_167
+    21300336: edd sprite sheet_168
+    21300338: edd sprite sheet_169
+    21300340: edd sprite sheet_170
+    21300342: edd sprite sheet_171
+    21300344: edd sprite sheet_172
+    21300346: edd sprite sheet_173
+    21300348: edd sprite sheet_174
+    21300350: edd sprite sheet_175
+    21300352: edd sprite sheet_176
+    21300354: edd sprite sheet_177
+    21300356: edd sprite sheet_178
+    21300358: edd sprite sheet_179
+    21300360: edd sprite sheet_180
+    21300362: edd sprite sheet_181
+    21300364: edd sprite sheet_182
+    21300366: edd sprite sheet_183
+    21300368: edd sprite sheet_184
+    21300370: edd sprite sheet_185
+    21300372: edd sprite sheet_186
+    21300374: edd sprite sheet_187
+    21300376: edd sprite sheet_188
+    21300378: edd sprite sheet_189
+    21300380: edd sprite sheet_190
+    21300382: edd sprite sheet_191
+    21300384: edd sprite sheet_192
+    21300386: edd sprite sheet_193
+    21300388: edd sprite sheet_194
+    21300390: edd sprite sheet_195
+    21300392: edd sprite sheet_196
+    21300394: edd sprite sheet_197
+    21300396: edd sprite sheet_198
+    21300398: edd sprite sheet_199
+    21300400: edd sprite sheet_200
+    21300402: edd sprite sheet_201
+    21300404: edd sprite sheet_202
+    21300406: edd sprite sheet_203
+    21300408: edd sprite sheet_204
+    21300410: edd sprite sheet_205
+    21300412: edd sprite sheet_206
+    21300414: edd sprite sheet_207
+    21300416: edd sprite sheet_208
+    21300418: edd sprite sheet_209
+    21300420: edd sprite sheet_210
+    21300422: edd sprite sheet_211
+    21300424: edd sprite sheet_212
+    21300426: edd sprite sheet_213
+    21300428: edd sprite sheet_214
+    21300430: edd sprite sheet_215
+    21300432: edd sprite sheet_216
+    21300434: edd sprite sheet_217
+    21300436: edd sprite sheet_218
+    21300438: edd sprite sheet_219
+    21300440: edd sprite sheet_220
+    21300442: edd sprite sheet_221
+    21300444: edd sprite sheet_222
+    21300446: edd sprite sheet_223
+    21300448: edd sprite sheet_224
+    21300450: edd sprite sheet_225
+    21300452: edd sprite sheet_226
+    21300454: edd sprite sheet_227
+    21300456: edd sprite sheet_228
+    21300458: edd sprite sheet_229
+    21300460: edd sprite sheet_230
+    21300462: edd sprite sheet_231
+    21300464: edd sprite sheet_232
+    21300466: edd sprite sheet_233
+    21300468: edd sprite sheet_234
+    21300470: edd sprite sheet_235
+    21300472: edd sprite sheet_236
+    21300474: edd sprite sheet_237
+    21300476: edd sprite sheet_238
+    21300478: edd sprite sheet_239
+    21300480: edd sprite sheet_240
+    21300482: edd sprite sheet_241
+    21300484: edd sprite sheet_242
+    21300486: edd sprite sheet_243
+    21300488: edd sprite sheet_244
+    21300490: edd sprite sheet_245
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: edd sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1723
+        width: 89
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1725
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1725
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1732
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1714
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1714
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1713
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1713
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1712
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1713
+        width: 205
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1689
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1628
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1628
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1628
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1628
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1628
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1628
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1628
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1628
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1628
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1628
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1628
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1628
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1628
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1628
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1583
+        width: 29
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1628
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1628
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1628
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1471
+        width: 74
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1628
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1628
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1628
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1628
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1611
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1608
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1554
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_37
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1529
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1438
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_39
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1471
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_40
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1438
+        width: 60
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1554
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_42
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1471
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1554
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_44
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1471
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1438
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1554
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1471
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_48
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1471
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_49
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1554
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1471
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_51
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1554
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_52
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1553
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_53
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1553
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_54
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1433
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_55
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1433
+        width: 111
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_56
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1376
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_57
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1376
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_58
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1376
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_59
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1342
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_60
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1345
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1342
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1288
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_63
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1288
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_64
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1288
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_65
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1288
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_66
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1288
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_67
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1288
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_68
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1288
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_69
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1288
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_70
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1288
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_71
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1288
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_72
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1288
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_73
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1289
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_74
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1289
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_75
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1233
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_76
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1233
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_77
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1233
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_78
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1233
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_79
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1233
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_80
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1233
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_81
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1233
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_82
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1233
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_83
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1233
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_84
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1233
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_85
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1233
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_86
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1233
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_87
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1233
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_88
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1232
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_89
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1232
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_90
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1232
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_91
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1232
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_92
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1208
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_93
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1206
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_94
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1145
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_95
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1145
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_96
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1145
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_97
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1145
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_98
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1144
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_99
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1144
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1144
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_101
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1114
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_102
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1114
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_103
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1114
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_104
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1111
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_105
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1114
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_106
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1114
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_107
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1114
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_108
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1043
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_109
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1043
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_110
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1043
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_111
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1043
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_112
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1043
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_113
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1043
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_114
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1043
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_115
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1043
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_116
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1043
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_117
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1043
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_118
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1043
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_119
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1043
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_120
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1043
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_121
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1043
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_122
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1043
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_123
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1043
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_124
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1043
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_125
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1011
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_126
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1014
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_127
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1004
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_128
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1004
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_129
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1004
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_130
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1004
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_131
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1004
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_132
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1004
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_133
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 943
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_134
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 943
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_135
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 943
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_136
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 943
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_137
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 943
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_138
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 943
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_139
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 943
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_140
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 943
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_141
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 980
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_142
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 943
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_143
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 979
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_144
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 943
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_145
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 875
+        width: 57
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_146
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 977
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_147
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 974
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_148
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 943
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_149
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 967
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_150
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 879
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_151
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 893
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_152
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 880
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_153
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 880
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_154
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 883
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_155
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 807
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_156
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 801
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_157
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 801
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_158
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 801
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_159
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 801
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_160
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 801
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_161
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 800
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_162
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 800
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_163
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 800
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_164
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 800
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_165
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 800
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_166
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 738
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_167
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 738
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_168
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 738
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_169
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 738
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_170
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 738
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_171
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 738
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_172
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 738
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_173
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 738
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_174
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 738
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_175
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 737
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_176
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 736
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_177
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 736
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_178
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 736
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_179
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 736
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_180
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 736
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_181
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 694
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_182
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 634
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_183
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 634
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_184
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 633
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_185
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 632
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_186
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 632
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_187
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 632
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_188
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 632
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_189
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 632
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 632
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_191
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 632
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_192
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 632
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_193
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 633
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_194
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 599
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_195
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 602
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_196
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 602
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_197
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 599
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_198
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 534
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_199
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 534
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_200
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 534
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_201
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 534
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_202
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 534
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_203
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 534
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_204
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 534
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_205
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 534
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_206
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 473
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_207
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 473
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_208
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 473
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_209
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 473
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_210
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 473
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_211
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 442
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_212
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 445
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_213
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 442
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_214
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 413
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_215
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 356
+        width: 109
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_216
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 356
+        width: 106
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_217
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 356
+        width: 107
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_218
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 356
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_219
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 316
+        width: 54
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_220
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 153
+        width: 124
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_221
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 244
+        width: 107
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_222
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 244
+        width: 109
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_223
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 244
+        width: 107
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_224
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 244
+        width: 107
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_225
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 223
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_226
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 190
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_227
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 167
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_228
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 196
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_229
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 192
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_230
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 167
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_231
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 194
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_232
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 189
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_233
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 166
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_234
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 166
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_235
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 163
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_236
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 150
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_237
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_238
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 80
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_239
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 80
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_240
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 80
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_241
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 80
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_242
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_243
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 63
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_244
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 60
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: edd sprite sheet_245
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 8
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
