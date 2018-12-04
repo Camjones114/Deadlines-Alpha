@@ -15,6 +15,11 @@ public class CameraController : MonoBehaviour {
 
 	[SerializeField]
 	private Transform target;
+
+	void Start(){
+		target = FindObjectOfType<player> ().transform;
+	}
+
 	void Update()
 	{
 		transform.position = new Vector3(Mathf.Clamp(target.position.x, xMin, xMax), Mathf.Clamp(target.position.y, yMin, yMax), transform.position.z);

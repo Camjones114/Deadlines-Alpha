@@ -3,7 +3,37 @@ guid: 376d42fce0bb1b042b12e06cf3d2915d
 timeCreated: 1541709592
 licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: coinSpriteSheet_0
+    21300002: coinSpriteSheet_1
+    21300004: coinSpriteSheet_2
+    21300006: coinSpriteSheet_3
+    21300008: coinSpriteSheet_4
+    21300010: coinSpriteSheet_5
+    21300012: coinSpriteSheet_6
+    21300014: coinSpriteSheet_7
+    21300016: coinSpriteSheet_8
+    21300018: coinSpriteSheet_9
+    21300020: coinSpriteSheet_10
+    21300022: coinSpriteSheet_11
+    21300024: coinSpriteSheet_12
+    21300026: coinSpriteSheet_13
+    21300028: coinSpriteSheet_14
+    21300030: coinSpriteSheet_15
+    21300032: coinSpriteSheet_16
+    21300034: coinSpriteSheet_17
+    21300036: coinSpriteSheet_18
+    21300038: coinSpriteSheet_19
+    21300040: coinSpriteSheet_20
+    21300042: coinSpriteSheet_21
+    21300044: coinSpriteSheet_22
+    21300046: coinSpriteSheet_23
+    21300048: coinSpriteSheet_24
+    21300050: coinSpriteSheet_25
+    21300052: coinSpriteSheet_26
+    21300054: coinSpriteSheet_27
+    21300056: coinSpriteSheet_28
+    21300058: coinSpriteSheet_29
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,7 +70,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -78,7 +108,427 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: coinSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 138
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 138
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 138
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 138
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 138
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 138
+        width: 11
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 138
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 138
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 138
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 138
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 76
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 76
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 76
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 76
+        width: 11
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 76
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 76
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 76
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 76
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 14
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 14
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 14
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 14
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 14
+        width: 12
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 14
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 14
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 14
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coinSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 14
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 

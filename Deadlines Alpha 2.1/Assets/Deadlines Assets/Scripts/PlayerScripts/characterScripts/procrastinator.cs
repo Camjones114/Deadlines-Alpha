@@ -5,13 +5,16 @@ using UnityEngine;
 public class procrastinator : player {
 
 	public procrastinator(){
-		health = 6;
-		damage = 2;
+		
 	}
 
 	public void Start(){
 		movement.setMovementspeed(7f);
 		movement.setJumpheight (13f);
+		setHealth(3);
+		setDamage(2);
+		setAttackDuration (0.4f);
+		setLives (4);
 	}
 
 	public void attack(){

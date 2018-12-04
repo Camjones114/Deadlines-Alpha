@@ -19,7 +19,6 @@ public class Attack : MonoBehaviour {
 
 	float getAttackDurationFromPlayer(){
 		player athlete = gameObject.GetComponent<athlete> ();
-		player averageStudent = gameObject.GetComponent<averageStudent> ();
 		player nerd = gameObject.GetComponent<nerd> ();
 		player procrastinator = gameObject.GetComponent<procrastinator> ();
 
@@ -27,9 +26,6 @@ public class Attack : MonoBehaviour {
 			Debug.Log ("Returning player type athlete");
 			Debug.Log (athlete.getAttackDuration());
 			return athlete.getAttackDuration ();
-		} else if (averageStudent != null) {
-			Debug.Log ("Returning player type averageStudent");
-			return averageStudent.getAttackDuration ();
 		} else if (nerd != null) {
 			Debug.Log ("Returning player type nerd");
 			return nerd.getAttackDuration ();

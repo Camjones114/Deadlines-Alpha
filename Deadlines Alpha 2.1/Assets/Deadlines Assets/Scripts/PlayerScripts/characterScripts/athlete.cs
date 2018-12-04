@@ -11,9 +11,10 @@ public class athlete : player {
 	public void Start(){
 		movement.setMovementspeed(8f);
 		movement.setJumpheight (14f);
-		health = 4;
-		damage = 3;
+		setHealth(4);
+		setDamage(3);
 		setAttackDuration(0.4f);
+		setLives(3);
 	}
 
 	public void attack(){

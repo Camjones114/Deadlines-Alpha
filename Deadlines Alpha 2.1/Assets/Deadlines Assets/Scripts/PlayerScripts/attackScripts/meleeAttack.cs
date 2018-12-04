@@ -5,7 +5,7 @@ using UnityEngine;
 public class meleeAttack : Attack {
 
 	[SerializeField]
-	private EdgeCollider2D hitBox;
+	private PolygonCollider2D hitBox;
 
 	public meleeAttack (){
 		
@@ -13,7 +13,7 @@ public class meleeAttack : Attack {
 
 	// Use this for initialization
 	void Start () {
-		hitBox = gameObject.GetComponent<EdgeCollider2D> ();
+		hitBox = gameObject.GetComponentInChildren<PolygonCollider2D> ();
 		//safety net to make sure our weapon is a trigger
 		if(!hitBox.isTrigger){ 
 			hitBox.isTrigger = true;

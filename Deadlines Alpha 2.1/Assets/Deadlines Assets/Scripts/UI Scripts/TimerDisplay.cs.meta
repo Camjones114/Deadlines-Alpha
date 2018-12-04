@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4cc11e5c40dde9a43b01f24c4871307d
+timeCreated: 1543191335
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - alarm1: {fileID: 21300000, guid: 5820dafa246b99749b12c96052ff8f6d, type: 3}
+  - alarm2: {fileID: 21300000, guid: 4c1e1a7600fa9004ab2f65073b6378b3, type: 3}
+  - alarm3: {fileID: 21300000, guid: 1831b0963cc0a1e47b2ad18b1168a192, type: 3}
+  - alarm4: {fileID: 21300000, guid: 4429f57c6678a64418990a59c4d8bd3e, type: 3}
+  - alarm5: {fileID: 21300000, guid: 4f6e2c8d85b6b80449d94f81bb355423, type: 3}
+  - alarm6: {fileID: 21300000, guid: 16314f48727ab494d9d4aed0177e99cb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

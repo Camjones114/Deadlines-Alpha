@@ -4,8 +4,12 @@ using UnityEngine;
 
 public class player : MonoBehaviour {
 
-	public int damage;
-	public int health;
+	[SerializeField]
+	private int damage;
+	[SerializeField]
+	private int health;
+	[SerializeField]
+	private int numLives;
 	public PlayerMovement movement;
 	public Attack attack;
 	public float attackDuration;
@@ -13,6 +17,14 @@ public class player : MonoBehaviour {
 	void Start(){
 		movement = gameObject.GetComponent<PlayerMovement> ();
 		attack = gameObject.GetComponent<Attack> ();
+	}
+
+	public void setLives(int numLives){
+		this.numLives = numLives;
+	}
+
+	public int getLives(){
+		return numLives;
 	}
 
 	public void setHealth(int health){
