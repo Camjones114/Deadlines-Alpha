@@ -33,9 +33,16 @@ public class GameManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+
+		if (Input.GetKeyDown (KeyCode.G)) {
+			decrementLives ();
+		} else if (Input.GetKeyDown (KeyCode.H)) {
+			incrementLives ();
+		}
+
 		if (healthAmt < 0) {
 			decrementLives ();
+			healthAmt = character.getHealth ();
 		}
 
 		if (coinCount > 9) {
@@ -68,12 +75,12 @@ public class GameManager : MonoBehaviour {
 		}
 	}
 
-	void decrementLives(){
+	public void decrementLives(){
 		numLives--;
 		FindObjectOfType<LivesDisplay> ().updateLives ();
 	}
 
-	void incrementLives(){
+	public void incrementLives(){
 		numLives++;
 		FindObjectOfType<LivesDisplay> ().updateLives ();
 	}
