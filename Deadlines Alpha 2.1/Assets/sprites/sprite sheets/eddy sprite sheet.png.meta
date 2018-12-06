@@ -1,0 +1,3837 @@
+fileFormatVersion: 2
+guid: d99bd1005e24f2444ab16859e60e3b39
+timeCreated: 1542863294
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eddy sprite sheet_0
+    21300002: eddy sprite sheet_1
+    21300004: eddy sprite sheet_2
+    21300006: eddy sprite sheet_3
+    21300008: eddy sprite sheet_4
+    21300010: eddy sprite sheet_5
+    21300012: eddy sprite sheet_6
+    21300014: eddy sprite sheet_7
+    21300016: eddy sprite sheet_8
+    21300018: eddy sprite sheet_9
+    21300020: eddy sprite sheet_10
+    21300022: eddy sprite sheet_11
+    21300024: eddy sprite sheet_12
+    21300026: eddy sprite sheet_13
+    21300028: eddy sprite sheet_14
+    21300030: eddy sprite sheet_15
+    21300032: eddy sprite sheet_16
+    21300034: eddy sprite sheet_17
+    21300036: eddy sprite sheet_18
+    21300038: eddy sprite sheet_19
+    21300040: eddy sprite sheet_20
+    21300042: eddy sprite sheet_21
+    21300044: eddy sprite sheet_22
+    21300046: eddy sprite sheet_23
+    21300048: eddy sprite sheet_24
+    21300050: eddy sprite sheet_25
+    21300052: eddy sprite sheet_26
+    21300054: eddy sprite sheet_27
+    21300056: eddy sprite sheet_28
+    21300058: eddy sprite sheet_29
+    21300060: eddy sprite sheet_30
+    21300062: eddy sprite sheet_31
+    21300064: eddy sprite sheet_32
+    21300066: eddy sprite sheet_33
+    21300068: eddy sprite sheet_34
+    21300070: eddy sprite sheet_35
+    21300072: eddy sprite sheet_36
+    21300074: eddy sprite sheet_37
+    21300076: eddy sprite sheet_38
+    21300078: eddy sprite sheet_39
+    21300080: eddy sprite sheet_40
+    21300082: eddy sprite sheet_41
+    21300084: eddy sprite sheet_42
+    21300086: eddy sprite sheet_43
+    21300088: eddy sprite sheet_44
+    21300090: eddy sprite sheet_45
+    21300092: eddy sprite sheet_46
+    21300094: eddy sprite sheet_47
+    21300096: eddy sprite sheet_48
+    21300098: eddy sprite sheet_49
+    21300100: eddy sprite sheet_50
+    21300102: eddy sprite sheet_51
+    21300104: eddy sprite sheet_52
+    21300106: eddy sprite sheet_53
+    21300108: eddy sprite sheet_54
+    21300110: eddy sprite sheet_55
+    21300112: eddy sprite sheet_56
+    21300114: eddy sprite sheet_57
+    21300116: eddy sprite sheet_58
+    21300118: eddy sprite sheet_59
+    21300120: eddy sprite sheet_60
+    21300122: eddy sprite sheet_61
+    21300124: eddy sprite sheet_62
+    21300126: eddy sprite sheet_63
+    21300128: eddy sprite sheet_64
+    21300130: eddy sprite sheet_65
+    21300132: eddy sprite sheet_66
+    21300134: eddy sprite sheet_67
+    21300136: eddy sprite sheet_68
+    21300138: eddy sprite sheet_69
+    21300140: eddy sprite sheet_70
+    21300142: eddy sprite sheet_71
+    21300144: eddy sprite sheet_72
+    21300146: eddy sprite sheet_73
+    21300148: eddy sprite sheet_74
+    21300150: eddy sprite sheet_75
+    21300152: eddy sprite sheet_76
+    21300154: eddy sprite sheet_77
+    21300156: eddy sprite sheet_78
+    21300158: eddy sprite sheet_79
+    21300160: eddy sprite sheet_80
+    21300162: eddy sprite sheet_81
+    21300164: eddy sprite sheet_82
+    21300166: eddy sprite sheet_83
+    21300168: eddy sprite sheet_84
+    21300170: eddy sprite sheet_85
+    21300172: eddy sprite sheet_86
+    21300174: eddy sprite sheet_87
+    21300176: eddy sprite sheet_88
+    21300178: eddy sprite sheet_89
+    21300180: eddy sprite sheet_90
+    21300182: eddy sprite sheet_91
+    21300184: eddy sprite sheet_92
+    21300186: eddy sprite sheet_93
+    21300188: eddy sprite sheet_94
+    21300190: eddy sprite sheet_95
+    21300192: eddy sprite sheet_96
+    21300194: eddy sprite sheet_97
+    21300196: eddy sprite sheet_98
+    21300198: eddy sprite sheet_99
+    21300200: eddy sprite sheet_100
+    21300202: eddy sprite sheet_101
+    21300204: eddy sprite sheet_102
+    21300206: eddy sprite sheet_103
+    21300208: eddy sprite sheet_104
+    21300210: eddy sprite sheet_105
+    21300212: eddy sprite sheet_106
+    21300214: eddy sprite sheet_107
+    21300216: eddy sprite sheet_108
+    21300218: eddy sprite sheet_109
+    21300220: eddy sprite sheet_110
+    21300222: eddy sprite sheet_111
+    21300224: eddy sprite sheet_112
+    21300226: eddy sprite sheet_113
+    21300228: eddy sprite sheet_114
+    21300230: eddy sprite sheet_115
+    21300232: eddy sprite sheet_116
+    21300234: eddy sprite sheet_117
+    21300236: eddy sprite sheet_118
+    21300238: eddy sprite sheet_119
+    21300240: eddy sprite sheet_120
+    21300242: eddy sprite sheet_121
+    21300244: eddy sprite sheet_122
+    21300246: eddy sprite sheet_123
+    21300248: eddy sprite sheet_124
+    21300250: eddy sprite sheet_125
+    21300252: eddy sprite sheet_126
+    21300254: eddy sprite sheet_127
+    21300256: eddy sprite sheet_128
+    21300258: eddy sprite sheet_129
+    21300260: eddy sprite sheet_130
+    21300262: eddy sprite sheet_131
+    21300264: eddy sprite sheet_132
+    21300266: eddy sprite sheet_133
+    21300268: eddy sprite sheet_134
+    21300270: eddy sprite sheet_135
+    21300272: eddy sprite sheet_136
+    21300274: eddy sprite sheet_137
+    21300276: eddy sprite sheet_138
+    21300278: eddy sprite sheet_139
+    21300280: eddy sprite sheet_140
+    21300282: eddy sprite sheet_141
+    21300284: eddy sprite sheet_142
+    21300286: eddy sprite sheet_143
+    21300288: eddy sprite sheet_144
+    21300290: eddy sprite sheet_145
+    21300292: eddy sprite sheet_146
+    21300294: eddy sprite sheet_147
+    21300296: eddy sprite sheet_148
+    21300298: eddy sprite sheet_149
+    21300300: eddy sprite sheet_150
+    21300302: eddy sprite sheet_151
+    21300304: eddy sprite sheet_152
+    21300306: eddy sprite sheet_153
+    21300308: eddy sprite sheet_154
+    21300310: eddy sprite sheet_155
+    21300312: eddy sprite sheet_156
+    21300314: eddy sprite sheet_157
+    21300316: eddy sprite sheet_158
+    21300318: eddy sprite sheet_159
+    21300320: eddy sprite sheet_160
+    21300322: eddy sprite sheet_161
+    21300324: eddy sprite sheet_162
+    21300326: eddy sprite sheet_163
+    21300328: eddy sprite sheet_164
+    21300330: eddy sprite sheet_165
+    21300332: eddy sprite sheet_166
+    21300334: eddy sprite sheet_167
+    21300336: eddy sprite sheet_168
+    21300338: eddy sprite sheet_169
+    21300340: eddy sprite sheet_170
+    21300342: eddy sprite sheet_171
+    21300344: eddy sprite sheet_172
+    21300346: eddy sprite sheet_173
+    21300348: eddy sprite sheet_174
+    21300350: eddy sprite sheet_175
+    21300352: eddy sprite sheet_176
+    21300354: eddy sprite sheet_177
+    21300356: eddy sprite sheet_178
+    21300358: eddy sprite sheet_179
+    21300360: eddy sprite sheet_180
+    21300362: eddy sprite sheet_181
+    21300364: eddy sprite sheet_182
+    21300366: eddy sprite sheet_183
+    21300368: eddy sprite sheet_184
+    21300370: eddy sprite sheet_185
+    21300372: eddy sprite sheet_186
+    21300374: eddy sprite sheet_187
+    21300376: eddy sprite sheet_188
+    21300378: eddy sprite sheet_189
+    21300380: eddy sprite sheet_190
+    21300382: eddy sprite sheet_191
+    21300384: eddy sprite sheet_192
+    21300386: eddy sprite sheet_193
+    21300388: eddy sprite sheet_194
+    21300390: eddy sprite sheet_195
+    21300392: eddy sprite sheet_196
+    21300394: eddy sprite sheet_197
+    21300396: eddy sprite sheet_198
+    21300398: eddy sprite sheet_199
+    21300400: eddy sprite sheet_200
+    21300402: eddy sprite sheet_201
+    21300404: eddy sprite sheet_202
+    21300406: eddy sprite sheet_203
+    21300408: eddy sprite sheet_204
+    21300410: eddy sprite sheet_205
+    21300412: eddy sprite sheet_206
+    21300414: eddy sprite sheet_207
+    21300416: eddy sprite sheet_208
+    21300418: eddy sprite sheet_209
+    21300420: eddy sprite sheet_210
+    21300422: eddy sprite sheet_211
+    21300424: eddy sprite sheet_212
+    21300426: eddy sprite sheet_213
+    21300428: eddy sprite sheet_214
+    21300430: eddy sprite sheet_215
+    21300432: eddy sprite sheet_216
+    21300434: eddy sprite sheet_217
+    21300436: eddy sprite sheet_218
+    21300438: eddy sprite sheet_219
+    21300440: eddy sprite sheet_220
+    21300442: eddy sprite sheet_221
+    21300444: eddy sprite sheet_222
+    21300446: eddy sprite sheet_223
+    21300448: eddy sprite sheet_224
+    21300450: eddy sprite sheet_225
+    21300452: eddy sprite sheet_226
+    21300454: eddy sprite sheet_227
+    21300456: eddy sprite sheet_228
+    21300458: eddy sprite sheet_229
+    21300460: eddy sprite sheet_230
+    21300462: eddy sprite sheet_231
+    21300464: eddy sprite sheet_232
+    21300466: eddy sprite sheet_233
+    21300468: eddy sprite sheet_234
+    21300470: eddy sprite sheet_235
+    21300472: eddy sprite sheet_236
+    21300474: eddy sprite sheet_237
+    21300476: eddy sprite sheet_238
+    21300478: eddy sprite sheet_239
+    21300480: eddy sprite sheet_240
+    21300482: eddy sprite sheet_241
+    21300484: eddy sprite sheet_242
+    21300486: eddy sprite sheet_243
+    21300488: eddy sprite sheet_244
+    21300490: eddy sprite sheet_245
+    21300492: eddy sprite sheet_246
+    21300494: eddy sprite sheet_247
+    21300496: eddy sprite sheet_248
+    21300498: eddy sprite sheet_249
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eddy sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1636
+        width: 203
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1647
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1648
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1648
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1648
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1634
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1634
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1633
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1633
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1633
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1633
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1592
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1538
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1538
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1538
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1538
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1538
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1538
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1538
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1538
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1538
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1538
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1538
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1538
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1538
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1538
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1538
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1538
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1538
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1538
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1515
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1467
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1467
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1467
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1467
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1467
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_36
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1467
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1467
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_38
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1467
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1467
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_40
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1467
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_41
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1467
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_42
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1467
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_43
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1443
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_44
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1360
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1390
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1390
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_47
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1390
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1390
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_49
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1390
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_50
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1390
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_51
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1389
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1389
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_53
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1389
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_54
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1389
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_55
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1389
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_56
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1363
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_57
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1363
+        width: 90
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_58
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1311
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_59
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1311
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_60
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1312
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_61
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1263
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_62
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1257
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_63
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1264
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_64
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1257
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_65
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1257
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_66
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1256
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_67
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1255
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_68
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1219
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_69
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1222
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_70
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1219
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_71
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1170
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1170
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_73
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1170
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_74
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1170
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_75
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1170
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_76
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1170
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_77
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1170
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_78
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1170
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_79
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1170
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_80
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1124
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1124
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_82
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1124
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_83
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1124
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_84
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1124
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_85
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1124
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_86
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1124
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_87
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1124
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_88
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1124
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_89
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1124
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_90
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1124
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_91
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1124
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_92
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1124
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_93
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1124
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1098
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_95
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1096
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_96
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1041
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_97
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1041
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_98
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1040
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_99
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1070
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_100
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1040
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_101
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1070
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_102
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1040
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_103
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1047
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_104
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1047
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_105
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1044
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_106
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1043
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_107
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1038
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_108
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1017
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_109
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 967
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_110
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 966
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_111
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 966
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_112
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 965
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_113
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 964
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_114
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 964
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_115
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 964
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_116
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 964
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_117
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 964
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_118
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 964
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_119
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 964
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_120
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 964
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_121
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 944
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_122
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 947
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_123
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 944
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_124
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 887
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_125
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 887
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_126
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 887
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_127
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 887
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_128
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 887
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_129
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 887
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_130
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 887
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_131
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 887
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_132
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 887
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_133
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 887
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_134
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 826
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_135
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 826
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_136
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 806
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_137
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 806
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_138
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 789
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_139
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 731
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_140
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 731
+        width: 106
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_141
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 731
+        width: 107
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_142
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 731
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_143
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 731
+        width: 107
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_144
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 706
+        width: 55
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_145
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 634
+        width: 107
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_146
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 633
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_147
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 633
+        width: 107
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_148
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 633
+        width: 107
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_149
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 633
+        width: 107
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_150
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 613
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_151
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 559
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_152
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 559
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_153
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 558
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_154
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 558
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_155
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 557
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 535
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_157
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 538
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_158
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 538
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_159
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 505
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 491
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_161
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 492
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_162
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 492
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_163
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 492
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_164
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 493
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_165
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 494
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_166
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 494
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_167
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 496
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_168
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 496
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_169
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 495
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_170
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 494
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_171
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 495
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_172
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 496
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_173
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 469
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_174
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 463
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_175
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 463
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_176
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 463
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_177
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 444
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_178
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 447
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_179
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 447
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_180
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 389
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_181
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 389
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_182
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 390
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_183
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 390
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_184
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 389
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_185
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 390
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_186
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 389
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_187
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 389
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_188
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 388
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_189
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 388
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_190
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 387
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_191
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 386
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_192
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 386
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_193
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 386
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_194
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 385
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_195
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 383
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_196
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 419
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_197
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 377
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_198
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 328
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_199
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 328
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_200
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 369
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_201
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 328
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_202
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 348
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_203
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 299
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_204
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 300
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_205
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 300
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_206
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 291
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_207
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 291
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_208
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 291
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_209
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 292
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_210
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 293
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_211
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 294
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_212
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 292
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_213
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 292
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_214
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 291
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_215
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 291
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_216
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 233
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_217
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 233
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_218
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 233
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_219
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 233
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_220
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 233
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_221
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 233
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_222
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 233
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_223
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 234
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_224
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 166
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_225
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 167
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_226
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 169
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_227
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 170
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_228
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 109
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_229
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 107
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_230
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 112
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_231
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 108
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_232
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 108
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_233
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 105
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_234
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 111
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_235
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 105
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_236
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 106
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_237
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 107
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_238
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 107
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_239
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 106
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_240
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 106
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_241
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 88
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_242
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 36
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_243
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 36
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_244
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 36
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_245
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 36
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_246
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 37
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_247
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 38
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_248
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 39
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eddy sprite sheet_249
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 37
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
