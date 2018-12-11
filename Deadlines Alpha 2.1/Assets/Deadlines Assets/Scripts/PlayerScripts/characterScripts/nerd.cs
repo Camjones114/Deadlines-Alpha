@@ -10,7 +10,7 @@ public class nerd : player {
 
 	public void Start(){
 		movement.setMovementspeed(6f);
-		movement.setJumpheight (12f);
+		movement.setJumpheight (13f);
 		setHealth(3);
 		setDamage(2);
 		setAttackDuration (0.4f);

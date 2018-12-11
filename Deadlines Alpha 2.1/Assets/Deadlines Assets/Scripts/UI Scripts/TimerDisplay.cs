@@ -65,8 +65,9 @@ public class TimerDisplay : MonoBehaviour {
 		}
 
 		if (remainingTime <= 0) {
-			FindObjectOfType<GameManager> ().decrementLives();
+			FindObjectOfType<GameManager> ();
 		}
+
 	}
 
 	public void setTimer(float timeAmount){
