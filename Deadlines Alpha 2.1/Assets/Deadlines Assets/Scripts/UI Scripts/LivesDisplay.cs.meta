@@ -1,11 +1,13 @@
 fileFormatVersion: 2
 guid: a80e063b1f9e5be47b259a3b36dc68b9
-timeCreated: 1541110410
-licenseType: Free
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - athleteSprite: {fileID: 21300000, guid: 6c676c4679acec2439e96c11dbbb863b, type: 3}
+  - nerdSprite: {fileID: 21300000, guid: 8c7dea51ccd2c3540baf726d621804ce, type: 3}
+  - procrastinatorSprite: {fileID: 21300000, guid: dc0b2c71dc84e114eaee9f57af674968,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
