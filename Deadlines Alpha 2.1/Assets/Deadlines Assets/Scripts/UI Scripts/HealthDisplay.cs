@@ -28,7 +28,7 @@ public class HealthDisplay : MonoBehaviour {
 	}
 
 	//update the health based on an increase or decrease 
-	void recoverHealth(int amount){
+	public void recoverHealth(int amount){
 		health += amount;
 		if (health > maxHealth) {
 			health = maxHealth;
@@ -36,7 +36,7 @@ public class HealthDisplay : MonoBehaviour {
 		updateHealth = true;
 	}
 
-	void takeDamage(int amount){
+	public void takeDamage(int amount){
 		health -= amount;
 		if (health <= 0) {
 			health = 0;
@@ -58,5 +58,9 @@ public class HealthDisplay : MonoBehaviour {
 			healthBar.localScale = (new Vector3 (value, 1f, 1f));
 		}
 
+	}
+
+	public int getHealth(){
+		return health;
 	}
 }
